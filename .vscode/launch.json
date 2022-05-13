@@ -2,6 +2,13 @@
   "version": "0.2.0",
   "configurations": [
     {
+      "type": "java",
+      "name": "Launch ThreadDemo",
+      "request": "launch",
+      "mainClass": "ThreadDemo",
+      "projectName": "CODES_2a0274df"
+    },
+    {
       "name": "C/C++ Runner: Debug Session",
       "type": "cppdbg",
       "request": "launch",
