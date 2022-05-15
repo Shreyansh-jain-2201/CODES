@@ -26,5 +26,11 @@
     "**/.*/**",
     "**/.vscode",
     "**/.vscode/**"
-  ]
+  ],
+  "files.associations": {
+    "*.tcc": "c",
+    "functional": "c",
+    "istream": "c",
+    "typeinfo": "c"
+  }
 }
